@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background: gray;
+}
+
+#container {
+    width: 1100px;
+    margin: 0 auto;
+}
+
+header {
+    background: #091d36;
+    text-align: center;
+}
+
+#content {
+    text-align: center;
+}
+
+.contact {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #091d36;
+}
+
+.red {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background: gray;
+}
